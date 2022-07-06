@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: Roboto+condenced, sans-serif;
+	font-family: Raleway, sans-serif;
 	color: #202030;
 	background-color: #FFFFFF;
 }
